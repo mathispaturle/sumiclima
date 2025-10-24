@@ -20,6 +20,7 @@ export default function Navbar({ t, locale }: { t: any; locale: Locale }) {
     const links = [
         { href: `/${locale}/catalogo`, label: t.navbar.catalogs },
         { href: `/${locale}/nosotros`, label: t.navbar.about_us },
+        { href: `/${locale}/blog`, label: t.navbar.blog },
         { href: `/${locale}/contacto`, label: t.navbar.contact },
     ];
 
@@ -28,7 +29,7 @@ export default function Navbar({ t, locale }: { t: any; locale: Locale }) {
             <div className="top-0 sticky z-30 w-full drop-shadow-md">
                 {/* Barra superior */}
                 <div className="w-full bg-[#072757] py-3 md:py-0">
-                    <div className="max-w-screen-2xl px-5 mx-auto h-auto md:h-8 text-white text-xs flex justify-between items-center">
+                    <div className="max-w-screen-2xl px-5 mx-auto h-auto md:h-10 text-white text-xs flex justify-between items-center">
                         <div className="flex justify-start items-center gap-4">
                             <div className="flex justify-start items-center gap-1">
                                 <LucideShieldCheck size={16} className="text-[#c91048]" />
