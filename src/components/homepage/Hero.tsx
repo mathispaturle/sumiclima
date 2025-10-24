@@ -25,7 +25,7 @@ export default function Hero({ t, locale }: { t: any, locale: Locale }) {
                     </div>
                     <div className="absolute bottom-24 w-full">
                         <div className="px-5 max-w-screen-2xl mx-auto">
-                            <h1 className="text-5xl md:text-7xl font-bold max-w-2xl text-white italic uppercase">{t.hero.title}</h1>
+                            <h1 className="text-5xl md:text-7xl pt-52 md:pt-0 font-bold max-w-2xl text-white italic uppercase">{t.hero.title}</h1>
                             <h2 className="mt-3 text-lg md:text-2xl max-w-5xl text-white">{t.hero.subtitle}</h2>
 
                             <div className="flex flex-col md:flex-row justify-start items-stretch gap-3 mt-6">
