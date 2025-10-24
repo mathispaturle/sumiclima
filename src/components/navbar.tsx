@@ -10,6 +10,7 @@ const LANGUAGES: { code: Locale; label: string }[] = [
     { code: "es", label: "ES" },
     { code: "en", label: "EN" },
     { code: "cat", label: "CAT" },
+    { code: "fr", label: "FR" },
 ];
 
 export default function Navbar({ t, locale }: { t: any; locale: Locale }) {
