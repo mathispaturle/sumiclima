@@ -3,7 +3,7 @@ import { Locale, getDictionary } from "@/lib/getDictionary";
 import ContactForm from "@/components/ContactForm";
 
 interface PageProps {
-    params: { locale: string }; // <-- use string, not Locale
+    params: { locale: string };
     searchParams?: { [key: string]: string | string[] | undefined };
 }
 
