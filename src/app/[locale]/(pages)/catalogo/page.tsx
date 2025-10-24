@@ -59,7 +59,7 @@ export const metadata: Metadata = {
 };
 
 
-export default function Page({ locale }: { locale: Locale }) {
+export default function Page() {
 
     const catalogs: Catalog[] = [
         {
