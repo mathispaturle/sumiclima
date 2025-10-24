@@ -6,6 +6,12 @@ import { LucidePackageSearch, LucideShieldCheck, Menu, X } from "lucide-react";
 import { Locale } from "@/lib/getDictionary";
 import { useState } from "react";
 
+const LANGUAGES: { code: Locale; label: string }[] = [
+    { code: "es", label: "ES" },
+    { code: "en", label: "EN" },
+    { code: "cat", label: "CAT" },
+];
+
 export default function Navbar({ t, locale }: { t: any; locale: Locale }) {
     const [mobileOpen, setMobileOpen] = useState(false);
 
@@ -14,7 +20,6 @@ export default function Navbar({ t, locale }: { t: any; locale: Locale }) {
     const links = [
         { href: `/${locale}/catalogo`, label: t.navbar.catalogs },
         { href: `/${locale}/nosotros`, label: t.navbar.about_us },
-        // { href: `/${locale}/blog`, label: t.navbar.blog },
         { href: `/${locale}/contacto`, label: t.navbar.contact },
     ];
 
@@ -68,6 +73,20 @@ export default function Navbar({ t, locale }: { t: any; locale: Locale }) {
                                     {link.label}
                                 </Link>
                             ))}
+
+                            {/* Language selector */}
+                            <div className="ml-6 flex items-center gap-2">
+                                {LANGUAGES.map((lang) => (
+                                    <Link
+                                        key={lang.code}
+                                        href={`/${lang.code}`}
+                                        className={`font-semibold ${lang.code === locale ? "text-[#c91048]" : "text-gray-600 hover:text-[#c91048]"
+                                            }`}
+                                    >
+                                        {lang.label}
+                                    </Link>
+                                ))}
+                            </div>
                         </div>
 
                         {/* Mobile menu button */}
@@ -77,8 +96,6 @@ export default function Navbar({ t, locale }: { t: any; locale: Locale }) {
                             </button>
                         </div>
                     </div>
-
-
                 </div>
             </div>
 
@@ -86,12 +103,10 @@ export default function Navbar({ t, locale }: { t: any; locale: Locale }) {
             {mobileOpen && (
                 <div className="md:hidden absolute bottom-0 inset-0 bg-black/50 z-40">
                     <div className="absolute top-0 right-0  bottom-0 w-3/4 max-w-xs h-full bg-white shadow-lg p-6 z-50 flex flex-col">
-                        <button
-                            onClick={toggleMobileMenu}
-                            className="self-end mb-8"
-                        >
+                        <button onClick={toggleMobileMenu} className="self-end mb-8">
                             <X size={24} />
                         </button>
+
                         {links.map((link) => (
                             <Link
                                 key={link.href}
@@ -102,10 +117,24 @@ export default function Navbar({ t, locale }: { t: any; locale: Locale }) {
                                 {link.label}
                             </Link>
                         ))}
+
+                        {/* Language selector */}
+                        <div className="mt-6 flex gap-4">
+                            {LANGUAGES.map((lang) => (
+                                <Link
+                                    key={lang.code}
+                                    href={`/${lang.code}`}
+                                    className={`font-semibold ${lang.code === locale ? "text-[#c91048]" : "text-gray-600 hover:text-[#c91048]"
+                                        }`}
+                                    onClick={() => setMobileOpen(false)}
+                                >
+                                    {lang.label}
+                                </Link>
+                            ))}
+                        </div>
                     </div>
                 </div>
             )}
         </>
-
     );
 }
