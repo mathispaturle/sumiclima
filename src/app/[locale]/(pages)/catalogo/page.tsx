@@ -15,6 +15,7 @@ type Catalog = {
 }
 
 import { Metadata } from "next";
+import { Locale } from "@/lib/getDictionary"
 
 export const metadata: Metadata = {
     title: "Catálogos Sumiclima - Climatización profesional",
@@ -58,7 +59,7 @@ export const metadata: Metadata = {
 };
 
 
-export default function Page({ locale }: { locale: string }) {
+export default function Page({ locale }: { locale: Locale }) {
 
     const catalogs: Catalog[] = [
         {
