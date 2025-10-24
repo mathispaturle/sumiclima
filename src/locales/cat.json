@@ -1,0 +1,128 @@
+{
+  "navbar": {
+    "professional_only": "Només professionals",
+    "references": "Més de 22.000 referències disponibles",
+    "email": "info@sumiclima.com",
+    "phone": "93-222-07-54",
+    "catalogs": "Catàlegs",
+    "about_us": "Nosaltres",
+    "blog": "Blog",
+    "contact": "Contactar"
+  },
+  "footer": {
+    "description": "De professional a professional. Distribuïdor de material de calefacció, climatització, refrigeració i ventilació.",
+    "links_title": "Enllaços",
+    "links": {
+      "home": "Inici",
+      "catalog": "Catàleg",
+      "about": "Nosaltres",
+      "contact": "Contacte"
+    },
+    "contact_title": "Contacte",
+    "address": "Via Trajana 50-56, Nau 7 08020, Barcelona",
+    "phone": "+34 932 22 07 54",
+    "email": "info@sumiclima.com",
+    "legal_title": "Legal",
+    "legal": {
+      "notice": "Avís legal",
+      "privacy": "Política de privacitat",
+      "cookies": "Política de cookies"
+    },
+    "copyright": "Tots els drets reservats."
+  },
+  "hero": {
+    "title": "De professional a professional",
+    "subtitle": "Sumiclima és el teu partner de confiança en el sector de la distribució de material de calefacció, climatització, aire condicionat, fred industrial i comercial, ventilació i tractament de l'aire.",
+    "cta": "Sol·licitar pressupost",
+    "cta2": "Explorar catàlegs"
+  },
+  "products": {
+    "title": "L'emmagatzematge del professional",
+    "subtitle": "Disposem d'una àmplia gamma de productes en estoc exclusivament relacionats amb el sector, a preus molt competitius.",
+    "cta": "Explorar catàleg",
+    "list": {
+      "air_conditioning": "Aire condicionat",
+      "heating": "Calefacció",
+      "aerothermal": "Aerotèrmia",
+      "ventilation": "Ventilació",
+      "refrigeration": "Refrigeració",
+      "zoning": "Zonificació i reixes",
+      "insulation": "Aïllament",
+      "filtration": "Filtració",
+      "pumps": "Bombes d'aigua",
+      "fixation": "Fixació i suport",
+      "materials": "Materials bàsics",
+      "tools": "Eines"
+    }
+  },
+  "team": {
+    "title": "Experiència i compromís",
+    "subtitle": "El nostre equip humà, amb més de 40 anys d'experiència, t'ofereix solucions modernes, assessorament tècnic i suport professional en els teus projectes.",
+    "cta": "Contacta'ns"
+  },
+  "brands": {
+    "title": "Les nostres principals marques"
+  },
+  "about": {
+    "hero": {
+      "title": "Sobre nosaltres",
+      "subtitle": "Més de 40 anys oferint solucions en climatització professional."
+    },
+    "history": {
+      "title": "La nostra història",
+      "p1": "Sumiclima va néixer fa més de quatre dècades amb un objectiu clar: ser l'aliat de confiança per als professionals del sector de la climatització, calefacció, ventilació i refrigeració. Des dels nostres inicis, hem apostat per la qualitat del servei, la disponibilitat d'estoc i l'assessorament tècnic personalitzat.",
+      "p2": "Avui seguim creixent amb els nostres clients, incorporant les últimes tecnologies, solucions sostenibles i marques líders del mercat."
+    },
+    "philosophy": {
+      "title": "La nostra filosofia",
+      "mission_title": "Missió",
+      "mission_text": "Ser el partner de confiança per als instal·ladors i professionals del sector, oferint solucions tècniques de climatització amb el millor servei, rapidesa i assessorament.",
+      "vision_title": "Visió",
+      "vision_text": "Consolidar-nos com la referència nacional en distribució de climatització professional, impulsant la innovació i la sostenibilitat a cada projecte.",
+      "values_title": "Valors",
+      "values": [
+        "Compromís amb el client",
+        "Transparència i confiança",
+        "Innovació i sostenibilitat",
+        "Treball en equip",
+        "Excel·lència tècnica"
+      ]
+    },
+    "team": {
+      "title": "El nostre equip",
+      "p1": "Darrere de cada comanda, cada assessorament tècnic i cada entrega hi ha un equip humà amb una àmplia experiència en el sector. Tècnics, assessors i especialistes que comparteixen la mateixa passió: oferir el millor servei als professionals de la climatització.",
+      "p2": "A Sumiclima, la professionalitat i la proximitat són la nostra millor garantia."
+    }
+  },
+  "contact": {
+    "title": "Posa't en contacte",
+    "intro": "Tens dubtes? Necessites un pressupost? Pots enviar-nos un missatge. T'hi respondrem tan aviat com sigui possible. Gràcies!",
+    "direct": "O si prefereixes contactar-nos de manera més directa.",
+    "form": {
+      "name": "Nom complet",
+      "email": "Correu electrònic",
+      "company": "Empresa",
+      "phone": "Telèfon",
+      "message": "Missatge",
+      "submit": "Enviar"
+    },
+    "address": "Via Trajana 50-56, Nau 7 08020, Barcelona",
+    "phone": "+34 932 22 07 54",
+    "email": "info@sumiclima.com"
+  },
+  "newsletter": {
+    "intro": "Subscriu-te al nostre newsletter per estar al dia de",
+    "title": "Tots els nostres catàlegs",
+    "form": {
+      "name": "Nom complet",
+      "email": "Correu electrònic",
+      "submit": "Enviar"
+    }
+  },
+  "cookieBanner": {
+    "message": "Fem servir cookies pròpies i de tercers per millorar l'experiència d'usuari, analitzar patrons de comportament i enviar comunicacions.",
+    "linkText": "Més informació",
+    "accept": "Acceptar",
+    "decline": "Rebutjar"
+  }
+}

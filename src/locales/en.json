@@ -1,0 +1,128 @@
+{
+  "navbar": {
+    "professional_only": "Professionals only",
+    "references": "Over 22,000 references available",
+    "email": "info@sumiclima.com",
+    "phone": "93-222-07-54",
+    "catalogs": "Catalogs",
+    "about_us": "About us",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "footer": {
+    "description": "From professional to professional. Distributor of heating, air conditioning, refrigeration, and ventilation materials.",
+    "links_title": "Links",
+    "links": {
+      "home": "Home",
+      "catalog": "Catalog",
+      "about": "About us",
+      "contact": "Contact"
+    },
+    "contact_title": "Contact",
+    "address": "Via Trajana 50-56, Nau 7 08020, Barcelona",
+    "phone": "+34 932 22 07 54",
+    "email": "info@sumiclima.com",
+    "legal_title": "Legal",
+    "legal": {
+      "notice": "Legal notice",
+      "privacy": "Privacy policy",
+      "cookies": "Cookies policy"
+    },
+    "copyright": "All rights reserved."
+  },
+  "hero": {
+    "title": "From professional to professional",
+    "subtitle": "Sumiclima is your trusted partner in the distribution of heating, air conditioning, industrial and commercial refrigeration, ventilation, and air treatment materials.",
+    "cta": "Request a quote",
+    "cta2": "Explore catalogs"
+  },
+  "products": {
+    "title": "The professional warehouse",
+    "subtitle": "We have a wide range of products in stock exclusively related to the sector, at very competitive prices.",
+    "cta": "Explore catalog",
+    "list": {
+      "air_conditioning": "Air conditioning",
+      "heating": "Heating",
+      "aerothermal": "Aerothermal",
+      "ventilation": "Ventilation",
+      "refrigeration": "Refrigeration",
+      "zoning": "Zoning and grilles",
+      "insulation": "Insulation",
+      "filtration": "Filtration",
+      "pumps": "Water pumps",
+      "fixation": "Fixing and support",
+      "materials": "Basic materials",
+      "tools": "Tools"
+    }
+  },
+  "team": {
+    "title": "Experience and commitment",
+    "subtitle": "Our human team, with over 40 years of experience, offers modern solutions, technical advice, and professional support for your projects.",
+    "cta": "Contact us"
+  },
+  "brands": {
+    "title": "Our main brands"
+  },
+  "about": {
+    "hero": {
+      "title": "About us",
+      "subtitle": "Over 40 years providing professional HVAC solutions."
+    },
+    "history": {
+      "title": "Our history",
+      "p1": "Sumiclima was founded more than four decades ago with a clear goal: to be the trusted partner for professionals in the HVAC, heating, ventilation, and refrigeration sector. From the beginning, we focused on service quality, stock availability, and personalized technical advice.",
+      "p2": "Today we continue growing alongside our clients, incorporating the latest technologies, sustainable solutions, and leading brands in the market."
+    },
+    "philosophy": {
+      "title": "Our philosophy",
+      "mission_title": "Mission",
+      "mission_text": "To be the trusted partner for installers and professionals in the sector, offering technical HVAC solutions with the best service, speed, and advice.",
+      "vision_title": "Vision",
+      "vision_text": "To establish ourselves as the national reference in professional HVAC distribution, promoting innovation and sustainability in every project.",
+      "values_title": "Values",
+      "values": [
+        "Customer commitment",
+        "Transparency and trust",
+        "Innovation and sustainability",
+        "Teamwork",
+        "Technical excellence"
+      ]
+    },
+    "team": {
+      "title": "Our team",
+      "p1": "Behind every order, technical advice, and delivery is a human team with extensive experience in the sector. Technicians, advisors, and specialists who share the same passion: providing the best service to HVAC professionals.",
+      "p2": "At Sumiclima, professionalism and closeness are our best guarantee."
+    }
+  },
+  "contact": {
+    "title": "Get in touch",
+    "intro": "Do you have questions? Need a quote? You can send us a message and we will reply as soon as possible. Thank you!",
+    "direct": "Or if you prefer, contact us more directly.",
+    "form": {
+      "name": "Full name",
+      "email": "Email",
+      "company": "Company",
+      "phone": "Phone",
+      "message": "Message",
+      "submit": "Send"
+    },
+    "address": "Via Trajana 50-56, Nau 7 08020, Barcelona",
+    "phone": "+34 932 22 07 54",
+    "email": "info@sumiclima.com"
+  },
+  "newsletter": {
+    "intro": "Subscribe to our newsletter to stay up to date with",
+    "title": "All our catalogs",
+    "form": {
+      "name": "Full name",
+      "email": "Email",
+      "submit": "Send"
+    }
+  },
+  "cookieBanner": {
+    "message": "We use first and third-party cookies to enhance the user experience, analyze behavior patterns, and send communications.",
+    "linkText": "Learn more",
+    "accept": "Accept",
+    "decline": "Decline"
+  }
+}
