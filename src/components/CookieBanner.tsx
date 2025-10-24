@@ -1,7 +1,7 @@
 "use client"
 
 import CookieConsent from "react-cookie-consent";
-import { Locale, getDictionary } from "@/lib/getDictionary";
+import { Locale } from "@/lib/getDictionary";
 
 export default function CookieBanner({ t, locale }: { t: any, locale: Locale }) {
 
@@ -13,7 +13,7 @@ export default function CookieBanner({ t, locale }: { t: any, locale: Locale }) 
             enableDeclineButton
             cookieName="sumiclima_cookies"
             style={{
-                background: "rgba(7, 39, 87, 0.95)",
+                background: "rgba(7, 39, 87, 1)",
                 color: "#fff",
                 fontSize: "1rem",
                 textAlign: "center",

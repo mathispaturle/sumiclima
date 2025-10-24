@@ -124,5 +124,65 @@
         "linkText": "Más información",
         "accept": "Aceptar",
         "decline": "Rechazar"
+    },
+    "legal": {
+        "notice_title": "Aviso Legal",
+        "intro": "De conformidad con la Ley 34/2002, de servicios de la sociedad de la información y comercio electrónico, se informa que este sitio web es propiedad de:",
+        "company_name": "Nombre: Subministraments de Climatització i Calefacció (Sumiclima)",
+        "cif": "CIF/NIF: 6637999",
+        "address": "Dirección: [Indicar dirección física]",
+        "email": "Correo electrónico: info@sumiclima.es",
+        "terms_title": "Condiciones de uso",
+        "terms_text": "El acceso y uso de este sitio web implica la aceptación plena de las condiciones descritas en este aviso legal. El usuario se compromete a hacer un uso adecuado de los contenidos y servicios ofrecidos.",
+        "ip_title": "Propiedad intelectual",
+        "ip_text": "Todos los contenidos, marcas, logotipos, imágenes y textos de este sitio son propiedad de Sumiclima o de terceros con autorización, estando protegidos por la legislación vigente en materia de propiedad intelectual e industrial.",
+        "responsibility_title": "Responsabilidad",
+        "responsibility_text": "Sumiclima no se hace responsable de los daños que puedan derivarse del uso incorrecto del sitio web o de la información proporcionada."
+    },
+    "privacy": {
+        "title": "Política de Privacidad",
+        "intro": "En Sumiclima nos comprometemos a proteger la privacidad de nuestros usuarios y clientes. Esta política describe cómo recopilamos, usamos y protegemos sus datos personales.",
+        "data_title": "Datos que recopilamos",
+        "data_list": [
+            "Nombre y apellidos",
+            "Correo electrónico",
+            "Teléfono de contacto",
+            "Información sobre su navegación en nuestro sitio web"
+        ],
+        "purpose_title": "Finalidad del tratamiento",
+        "purpose_text": "Los datos que recopilamos se utilizan para:",
+        "purpose_list": [
+            "Responder a sus consultas y solicitudes de información.",
+            "Enviar comunicaciones comerciales relacionadas con nuestros productos y servicios (Resend.com).",
+            "Analizar patrones de comportamiento y mejorar la experiencia del usuario en nuestro sitio web (Google Analytics)."
+        ],
+        "legal_basis_title": "Legitimación",
+        "legal_basis_text": "La base legal para el tratamiento de sus datos es su consentimiento explícito al enviar formularios de contacto o suscribirse a nuestras comunicaciones.",
+        "retention_title": "Conservación de los datos",
+        "retention_text": "Los datos se conservarán durante el tiempo necesario para cumplir con la finalidad indicada o hasta que nos solicite su supresión.",
+        "recipients_title": "Destinatarios",
+        "recipients_text": "Sus datos podrán ser compartidos únicamente con:",
+        "recipients_list": [
+            "Resend.com, proveedor de servicios de envío de correos electrónicos.",
+            "Google Analytics, para el análisis de navegación y comportamiento de usuarios."
+        ],
+        "rights_title": "Derechos del usuario",
+        "rights_text": "Puede ejercer los derechos de acceso, rectificación, supresión, limitación del tratamiento y portabilidad de sus datos escribiendo a: <strong>info@sumiclima.es</strong>."
+    },
+    "cookies": {
+        "title": "Política de Cookies",
+        "intro": "Este sitio web utiliza cookies propias y de terceros para mejorar la experiencia de navegación y analizar el comportamiento de los usuarios.",
+        "what_are": "¿Qué son las cookies?",
+        "what_are_text": "Las cookies son pequeños archivos de texto que se almacenan en su navegador y permiten recordar preferencias y personalizar la experiencia.",
+        "types_title": "Cookies que utilizamos",
+        "types": [
+            "Analíticas: Google Analytics, para medir patrones de uso y mejorar la web.",
+            "Funcionales: Permiten recordar sus preferencias de idioma o configuración."
+        ],
+        "consent_title": "Consentimiento",
+        "consent_text": "Al continuar navegando, acepta el uso de cookies. Puede gestionar su consentimiento mediante nuestro banner o ajustando la configuración de su navegador.",
+        "more_info_title": "Más información",
+        "more_info_text": "Para más detalles sobre cómo tratamos sus datos personales, consulte nuestra Política de Privacidad.",
+        "privacy_link": "/politica-de-privacidad"
     }
 }

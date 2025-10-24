@@ -124,5 +124,65 @@
     "linkText": "Learn more",
     "accept": "Accept",
     "decline": "Decline"
+  },
+  "legal": {
+    "notice_title": "Legal Notice",
+    "intro": "In accordance with Law 34/2002 on Information Society Services and Electronic Commerce, it is hereby informed that this website is owned by:",
+    "company_name": "Name: Subministraments de Climatització i Calefacció (Sumiclima)",
+    "cif": "VAT/NIF: 6637999",
+    "address": "Address: [Specify physical address]",
+    "email": "Email: info@sumiclima.es",
+    "terms_title": "Terms of Use",
+    "terms_text": "Accessing and using this website implies full acceptance of the terms described in this legal notice. The user agrees to make proper use of the content and services offered.",
+    "ip_title": "Intellectual Property",
+    "ip_text": "All contents, trademarks, logos, images, and texts on this site are owned by Sumiclima or third parties with authorization, and are protected by current intellectual and industrial property legislation.",
+    "responsibility_title": "Liability",
+    "responsibility_text": "Sumiclima is not responsible for any damages arising from incorrect use of the website or the information provided."
+  },
+  "privacy": {
+    "title": "Política de Privacitat",
+    "intro": "A Sumiclima ens comprometem a protegir la privacitat dels nostres usuaris i clients. Aquesta política descriu com recopilem, fem servir i protegim les seves dades personals.",
+    "data_title": "Dades que recopilem",
+    "data_list": [
+      "Nom i cognoms",
+      "Correu electrònic",
+      "Telèfon de contacte",
+      "Informació sobre la seva navegació al nostre lloc web"
+    ],
+    "purpose_title": "Finalitat del tractament",
+    "purpose_text": "Les dades que recopilem s'utilitzen per:",
+    "purpose_list": [
+      "Respondre a les seves consultes i sol·licituds d'informació.",
+      "Enviar comunicacions comercials relacionades amb els nostres productes i serveis (Resend.com).",
+      "Analitzar patrons de comportament i millorar l'experiència de l'usuari al nostre lloc web (Google Analytics)."
+    ],
+    "legal_basis_title": "Legitimació",
+    "legal_basis_text": "La base legal per al tractament de les seves dades és el seu consentiment explícit en enviar formularis de contacte o subscriure's a les nostres comunicacions.",
+    "retention_title": "Conservació de les dades",
+    "retention_text": "Les dades es conservaran durant el temps necessari per complir amb la finalitat indicada o fins que ens sol·liciti la seva supressió.",
+    "recipients_title": "Destinataris",
+    "recipients_text": "Les seves dades només es podran compartir amb:",
+    "recipients_list": [
+      "Resend.com, proveïdor de serveis d'enviament de correus electrònics.",
+      "Google Analytics, per a l'anàlisi de navegació i comportament dels usuaris."
+    ],
+    "rights_title": "Drets de l'usuari",
+    "rights_text": "Pot exercir els drets d'accés, rectificació, supressió, limitació del tractament i portabilitat de les seves dades escrivint a: <strong>info@sumiclima.es</strong>."
+  },
+  "cookies": {
+    "title": "Política de Cookies",
+    "intro": "Aquest lloc web utilitza cookies pròpies i de tercers per millorar l'experiència de navegació i analitzar el comportament dels usuaris.",
+    "what_are": "Què són les cookies?",
+    "what_are_text": "Les cookies són petits fitxers de text que s'emmagatzemen al vostre navegador i permeten recordar preferències i personalitzar l'experiència.",
+    "types_title": "Cookies que utilitzem",
+    "types": [
+      "Analítiques: Google Analytics, per mesurar patrons d'ús i millorar la web.",
+      "Funcionales: Permeten recordar les vostres preferències d'idioma o configuració."
+    ],
+    "consent_title": "Consentiment",
+    "consent_text": "En continuar navegant, accepteu l'ús de cookies. Podeu gestionar el vostre consentiment mitjançant el nostre banner o configuració del navegador.",
+    "more_info_title": "Més informació",
+    "more_info_text": "Per a més detalls sobre com tractem les vostres dades personals, consulteu la nostra Política de Privacitat.",
+    "privacy_link": "/politica-de-privacitat"
   }
 }

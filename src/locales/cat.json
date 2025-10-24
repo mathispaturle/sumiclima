@@ -124,5 +124,65 @@
     "linkText": "Més informació",
     "accept": "Acceptar",
     "decline": "Rebutjar"
+  },
+  "legal": {
+    "notice_title": "Avís Legal",
+    "intro": "D'acord amb la Llei 34/2002 de serveis de la societat de la informació i comerç electrònic, s'informa que aquest lloc web és propietat de:",
+    "company_name": "Nom: Subministraments de Climatització i Calefacció (Sumiclima)",
+    "cif": "CIF/NIF: 6637999",
+    "address": "Adreça: [Indicar adreça física]",
+    "email": "Correu electrònic: info@sumiclima.es",
+    "terms_title": "Condicions d'ús",
+    "terms_text": "L'accés i ús d'aquest lloc web implica l'acceptació plena de les condicions descrites en aquest avís legal. L'usuari es compromet a fer un ús adequat dels continguts i serveis oferts.",
+    "ip_title": "Propietat intel·lectual",
+    "ip_text": "Tots els continguts, marques, logotips, imatges i textos d'aquest lloc són propietat de Sumiclima o de tercers amb autorització, estant protegits per la legislació vigent en matèria de propietat intel·lectual i industrial.",
+    "responsibility_title": "Responsabilitat",
+    "responsibility_text": "Sumiclima no es fa responsable dels danys que puguin derivar-se de l'ús incorrecte del lloc web o de la informació proporcionada."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "intro": "At Sumiclima we are committed to protecting the privacy of our users and customers. This policy describes how we collect, use, and protect your personal data.",
+    "data_title": "Data we collect",
+    "data_list": [
+      "Full name",
+      "Email address",
+      "Contact phone",
+      "Information about your browsing on our website"
+    ],
+    "purpose_title": "Purpose of processing",
+    "purpose_text": "The data we collect is used to:",
+    "purpose_list": [
+      "Respond to your inquiries and information requests.",
+      "Send commercial communications related to our products and services (Resend.com).",
+      "Analyze behavior patterns and improve the user experience on our website (Google Analytics)."
+    ],
+    "legal_basis_title": "Legal basis",
+    "legal_basis_text": "The legal basis for processing your data is your explicit consent when submitting contact forms or subscribing to our communications.",
+    "retention_title": "Data retention",
+    "retention_text": "Data will be kept for as long as necessary to fulfill the indicated purpose or until you request its deletion.",
+    "recipients_title": "Recipients",
+    "recipients_text": "Your data may only be shared with:",
+    "recipients_list": [
+      "Resend.com, provider of email sending services.",
+      "Google Analytics, for analyzing user navigation and behavior."
+    ],
+    "rights_title": "User rights",
+    "rights_text": "You may exercise your rights of access, rectification, deletion, restriction of processing, and data portability by writing to: <strong>info@sumiclima.es</strong>."
+  },
+  "cookies": {
+    "title": "Cookies Policy",
+    "intro": "This website uses first and third-party cookies to improve browsing experience and analyze user behavior.",
+    "what_are": "What are cookies?",
+    "what_are_text": "Cookies are small text files stored in your browser that remember preferences and personalize your experience.",
+    "types_title": "Cookies we use",
+    "types": [
+      "Analytics: Google Analytics, to measure usage patterns and improve the website.",
+      "Functional: Allow remembering your language or configuration preferences."
+    ],
+    "consent_title": "Consent",
+    "consent_text": "By continuing to browse, you accept the use of cookies. You can manage your consent via our banner or browser settings.",
+    "more_info_title": "More information",
+    "more_info_text": "For more details about how we process your personal data, see our Privacy Policy.",
+    "privacy_link": "/privacy-policy"
   }
 }
