@@ -1,0 +1,188 @@
+{
+  "navbar": {
+    "professional_only": "Réservé aux professionnels",
+    "references": "Plus de 22 000 références disponibles",
+    "email": "info@sumiclima.com",
+    "phone": "93-222-07-54",
+    "catalogs": "Catalogues & Tarifs",
+    "about_us": "À propos",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "footer": {
+    "description": "De professionnel à professionnel. Distributeur de matériel de chauffage, climatisation, réfrigération et ventilation.",
+    "links_title": "Liens",
+    "links": {
+      "home": "Accueil",
+      "catalog": "Catalogue & Tarifs",
+      "about": "À propos",
+      "contact": "Contact"
+    },
+    "contact_title": "Contact",
+    "address": "Via Trajana 50-56, Nave 7 08020, Barcelone",
+    "phone": "+34 932 22 07 54",
+    "email": "info@sumiclima.com",
+    "legal_title": "Mentions légales",
+    "legal": {
+      "notice": "Mentions légales",
+      "privacy": "Politique de confidentialité",
+      "cookies": "Politique de cookies"
+    },
+    "copyright": "Tous droits réservés."
+  },
+  "hero": {
+    "title": "De professionnel à professionnel",
+    "subtitle": "Sumiclima est votre partenaire de confiance dans la distribution de matériel de chauffage, climatisation, réfrigération industrielle et commerciale, ventilation et traitement de l’air.",
+    "cta": "Demander un devis",
+    "cta2": "Consulter les catalogues"
+  },
+  "products": {
+    "title": "L’entrepôt des professionnels",
+    "subtitle": "Nous disposons d’un large stock de produits exclusivement liés au secteur, à des prix très compétitifs.",
+    "cta": "Explorer le catalogue",
+    "list": {
+      "air_conditioning": "Climatisation",
+      "heating": "Chauffage",
+      "aerothermal": "Aérothermie",
+      "ventilation": "Ventilation",
+      "refrigeration": "Réfrigération",
+      "zoning": "Zonage et grilles",
+      "insulation": "Isolation",
+      "filtration": "Filtration",
+      "pumps": "Pompes à eau",
+      "fixation": "Fixation et support",
+      "materials": "Matériaux de base",
+      "tools": "Outils"
+    }
+  },
+  "team": {
+    "title": "Expérience et engagement",
+    "subtitle": "Notre équipe, avec plus de 40 ans d’expérience, offre des solutions modernes, des conseils techniques et un accompagnement professionnel pour vos projets.",
+    "cta": "Nous contacter"
+  },
+  "brands": {
+    "title": "Nos principales marques"
+  },
+  "about": {
+    "hero": {
+      "title": "À propos de nous",
+      "subtitle": "Plus de 40 ans au service des professionnels du CVC."
+    },
+    "history": {
+      "title": "Notre histoire",
+      "p1": "Sumiclima a été fondée il y a plus de quarante ans avec un objectif clair : devenir le partenaire de confiance des professionnels du secteur du chauffage, de la ventilation, de la climatisation et de la réfrigération. Dès le début, nous avons mis l’accent sur la qualité du service, la disponibilité du stock et le conseil technique personnalisé.",
+      "p2": "Aujourd’hui, nous continuons à croître aux côtés de nos clients, en intégrant les dernières technologies, des solutions durables et des marques leaders du marché."
+    },
+    "philosophy": {
+      "title": "Notre philosophie",
+      "mission_title": "Mission",
+      "mission_text": "Être le partenaire de confiance des installateurs et des professionnels du secteur, en offrant des solutions techniques CVC avec le meilleur service, rapidité et conseil.",
+      "vision_title": "Vision",
+      "vision_text": "Nous établir comme la référence nationale dans la distribution professionnelle CVC, en promouvant l’innovation et la durabilité dans chaque projet.",
+      "values_title": "Valeurs",
+      "values": [
+        "Engagement envers le client",
+        "Transparence et confiance",
+        "Innovation et durabilité",
+        "Travail d’équipe",
+        "Excellence technique"
+      ]
+    },
+    "team": {
+      "title": "Notre équipe",
+      "p1": "Derrière chaque commande, chaque conseil technique et chaque livraison se trouve une équipe expérimentée et passionnée. Techniciens, conseillers et spécialistes partagent une même mission : offrir le meilleur service aux professionnels du CVC.",
+      "p2": "Chez Sumiclima, le professionnalisme et la proximité sont notre meilleure garantie."
+    }
+  },
+  "contact": {
+    "title": "Prenez contact",
+    "intro": "Des questions ? Besoin d’un devis ? Envoyez-nous un message et nous vous répondrons dès que possible. Merci !",
+    "direct": "Ou si vous préférez, contactez-nous directement.",
+    "form": {
+      "name": "Nom complet",
+      "email": "Email",
+      "company": "Entreprise",
+      "phone": "Téléphone",
+      "message": "Message",
+      "submit": "Envoyer"
+    },
+    "address": "Via Trajana 50-56, Nave 7 08020, Barcelone",
+    "phone": "+34 932 22 07 54",
+    "email": "info@sumiclima.com"
+  },
+  "newsletter": {
+    "intro": "Abonnez-vous à notre newsletter pour rester informé de",
+    "title": "Tous nos catalogues",
+    "form": {
+      "name": "Nom complet",
+      "email": "Email",
+      "submit": "Envoyer"
+    }
+  },
+  "cookieBanner": {
+    "message": "Nous utilisons des cookies internes et tiers pour améliorer l’expérience utilisateur, analyser les comportements et envoyer des communications.",
+    "linkText": "En savoir plus",
+    "accept": "Accepter",
+    "decline": "Refuser"
+  },
+  "legal": {
+    "notice_title": "Mentions légales",
+    "intro": "Conformément à la Loi 34/2002 sur les services de la société de l'information et le commerce électronique, il est indiqué que ce site web appartient à :",
+    "company_name": "Nom : Subministraments de Climatització i Calefacció S.L. (Sumiclima)",
+    "cif": "NIF/VAT : 6637999",
+    "address": "Adresse : [Spécifier l’adresse physique]",
+    "email": "Email : info@sumiclima.es",
+    "terms_title": "Conditions d’utilisation",
+    "terms_text": "L’accès et l’utilisation de ce site impliquent l’acceptation pleine et entière des conditions décrites dans ces mentions légales. L’utilisateur s’engage à faire un usage approprié des contenus et services proposés.",
+    "ip_title": "Propriété intellectuelle",
+    "ip_text": "Tous les contenus, marques, logos, images et textes présents sur ce site appartiennent à Sumiclima ou à des tiers autorisés, et sont protégés par la législation en vigueur sur la propriété intellectuelle et industrielle.",
+    "responsibility_title": "Responsabilité",
+    "responsibility_text": "Sumiclima n’est pas responsable des dommages résultant d’une mauvaise utilisation du site ou des informations fournies."
+  },
+  "privacy": {
+    "title": "Politique de confidentialité",
+    "intro": "Chez Sumiclima, nous nous engageons à protéger la vie privée de nos utilisateurs et clients. Cette politique décrit comment nous recueillons, utilisons et protégeons vos données personnelles.",
+    "data_title": "Données que nous collectons",
+    "data_list": [
+      "Nom et prénom",
+      "Adresse e-mail",
+      "Téléphone de contact",
+      "Informations sur votre navigation sur notre site web"
+    ],
+    "purpose_title": "Finalité du traitement",
+    "purpose_text": "Les données collectées sont utilisées pour :",
+    "purpose_list": [
+      "Répondre à vos demandes et questions.",
+      "Envoyer des communications commerciales relatives à nos produits et services (Resend.com).",
+      "Analyser les comportements de navigation et améliorer l’expérience utilisateur sur notre site (Google Analytics)."
+    ],
+    "legal_basis_title": "Base légale",
+    "legal_basis_text": "La base légale du traitement de vos données est votre consentement explicite lors de l’envoi de formulaires de contact ou d’abonnement à nos communications.",
+    "retention_title": "Durée de conservation",
+    "retention_text": "Les données sont conservées pendant le temps nécessaire pour atteindre la finalité indiquée ou jusqu’à ce que vous en demandiez la suppression.",
+    "recipients_title": "Destinataires",
+    "recipients_text": "Vos données ne seront partagées qu’avec :",
+    "recipients_list": [
+      "Resend.com, fournisseur de services d’envoi d’e-mails.",
+      "Google Analytics, pour l’analyse de la navigation et du comportement des utilisateurs."
+    ],
+    "rights_title": "Droits de l’utilisateur",
+    "rights_text": "Vous pouvez exercer vos droits d’accès, de rectification, de suppression, de limitation du traitement et de portabilité de vos données en écrivant à : <strong>info@sumiclima.es</strong>."
+  },
+  "cookies": {
+    "title": "Politique de cookies",
+    "intro": "Ce site web utilise des cookies internes et tiers pour améliorer l’expérience de navigation et analyser le comportement des utilisateurs.",
+    "what_are": "Qu’est-ce qu’un cookie ?",
+    "what_are_text": "Les cookies sont de petits fichiers texte stockés dans votre navigateur, permettant de mémoriser vos préférences et de personnaliser votre expérience.",
+    "types_title": "Cookies que nous utilisons",
+    "types": [
+      "Analytiques : Google Analytics, pour mesurer les usages et améliorer le site.",
+      "Fonctionnels : permettent de mémoriser vos préférences de langue ou de configuration."
+    ],
+    "consent_title": "Consentement",
+    "consent_text": "En poursuivant votre navigation, vous acceptez l’utilisation de cookies. Vous pouvez gérer votre consentement via notre bannière ou la configuration de votre navigateur.",
+    "more_info_title": "Plus d’informations",
+    "more_info_text": "Pour plus de détails sur le traitement de vos données personnelles, consultez notre Politique de confidentialité.",
+    "privacy_link": "/politique-de-confidentialite"
+  }
+}
